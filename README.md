@@ -1,5 +1,7 @@
 # G検定単語帳 (G-kentei Flashcard App)
 
+🌐 **デプロイ済み**: https://shiryu2002.github.io/g-exam-flashcard/
+
 ## 概要
 
 このアプリケーションは、AIに関するG検定の重要用語を効率的に学習するためのモダンなフラッシュカード（単語帳）ウェブアプリケーションです。
